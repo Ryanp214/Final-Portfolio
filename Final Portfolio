@@ -13,15 +13,15 @@
 		Thomas A. Edison CTE HS
 		<img src="laptopWave.png" id="logo">
 		<h1>Web Development</h1>
-		<h1>Programing and prototyping mid-year portfolio 2024</h1>
-		<h1>1/12/24</h1>
+		<h1>Programing and prototyping Final-year portfolio 2024</h1>
+		<h1>10/29/24</h1>
 		<h1>Ryan Peralto</h1>
 		
 	</div>
 	<div class="container">
 	</div>
 	<div class="menu"> <a href="earsketch.html"> EARSKETCH:</a> Earsketch is when you create sounds and music using code/python. It is very useful for music artist and game designers. </div>
-    <div class="container"> <a href="animation.html">ANIMATION:</a> Animation with pyton is when your able to move or create certian objects using code. It is also used for visual representation of certain projects. This is used when programers design video games. </div>
+    <div class="container"> <a href="animation.html">ANIMATION:</a> Animation with pyton is when your able to move or create certian objects using code. It is also used for visual representation of certain projects. This is used when programers design video games or if they want to present a trailer. </div>
       <div class="banner"> <a href="statements.html">STATEMENTS:</a> These are used when you have to input something into the code. For example: Print statements, IF statements, ELSE statements and ect.  </div>
 	</div>
 </body>
