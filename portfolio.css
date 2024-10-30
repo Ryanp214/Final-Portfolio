@@ -7,14 +7,14 @@ text-transform:uppercase;
 font-size:2.5em;}
 
 #content {
-	width: 960px;
+	width: 700px;
 	margin-top: 0px;
 	margin-right: auto;
 	margin-bottom: 0px;
 	margin-left: auto;
 }
 #tales {
-	float: left;
+	float: right;
 	width: 600px;
 	border-bottom:solid 1px #000000;
 }
@@ -36,7 +36,7 @@ div{
 
 #content p {line-height:1.6em;}
 #attention {
-	clear:left;
+	clear:right;
 	float: left;
 	width: 300px;
 	border-right-style: solid;
@@ -49,8 +49,8 @@ div{
 	margin:0px .8em 0px 0px;}
 	
 #picture {
-	float: left;
-	width: 300px;
+	float: right;
+	width: 400px;
 	margin:0px .8em 0px 0px;}
 	
 #compete {
@@ -62,7 +62,7 @@ div{
 #looks {
 	background-color: #3cb371;
 	float: left;
-	width: 300px;
+	width: 400px;
 	padding:1em;
 	margin:0px 1em 1em 0px;
 }
