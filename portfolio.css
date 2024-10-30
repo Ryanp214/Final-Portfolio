@@ -10,7 +10,7 @@ font-size:2.5em;}
 	width: 700px;
 	margin-top: 50px;
 	margin-right: auto;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 	margin-left: auto;
 }
 #tales {
@@ -32,7 +32,7 @@ div{
 	float: left;
 	width: 600px;
 	padding:1em;
-	margin:0px 1em 1em 0px;}
+	margin:50px 1em 1em 50px;}
 
 #content p {line-height:1.6em;}
 #attention {
@@ -74,11 +74,11 @@ text-align:center;}
 .align {text-align:center;}
 
 .steve {
-border-right:#009 solid 1px;
+border-right:#009 solid 5px;
 padding:50px 2.5em 50px;
-width:500px;
+width:300px;
 margin:0px auto
 text-align:left;
 float:left;
-font-style:italic;
+font-style:calibri;
 background-color:#0000ff;}
