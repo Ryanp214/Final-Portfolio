@@ -37,16 +37,16 @@ div{
 #content p {line-height:1.6em;}
 #attention {
 	clear:right;
-	float: left;
+	float: right;
 	width: 300px;
 	border-right-style: solid;
-	margin:0px .8em 0px 0px;}
+	margin:50px .8em 50px 50px;}
 	
 #contact {
 	float: left;
 	width: 300px;
 	border-right-style: solid;
-	margin:0px .8em 0px 0px;}
+	margin:50px .8em 50px 50px;}
 	
 #picture {
 	float: right;
